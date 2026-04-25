@@ -38,7 +38,7 @@
 ## 一键安装
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/你的用户名/warp-split/main/warp-split.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/skyroad19981001-hue/warp-split/main/warp-split.sh)
 ```
 
 运行后选择 `1` 安装即可。
