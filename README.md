@@ -1,6 +1,6 @@
 Gemini-WARP-Guard: 极致自愈分流方案
 ​项目简介：
-本方案专为解决海外 VPS 访问 Gemini、BitMart 等服务时的地区限制与连接不稳问题。结合了 WARP 隧道、Redsocks 转发以及 AI 级联强化的守护脚本。
+本方案专为解决VPS 访问 Gemini、BitMart 等服务时的地区限制与连接不稳问题。结合了 WARP 隧道、Redsocks 转发以及 AI 级联强化的守护脚本。
 ​核心黑科技：
 ​动态域解析：实时嗅探 Gemini/BitMart 域名 IP 变化，自动更新 ipset 名单，告别手动维护。
 ​三重自愈逻辑：监控网卡状态、服务进程及业务连通性。只要 gemini.google.com连不上，脚本 60 秒内“暴力拉回”。
